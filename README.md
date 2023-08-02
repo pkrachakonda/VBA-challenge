@@ -4,7 +4,8 @@ This section describes briefly various sections of the VBA script attached as pa
 
 ## Declaration of variables and assigning values to the variables
     
-    ![image](https://github.com/pkrachakonda/VBA-challenge/assets/20739237/4f652c67-e69a-4b61-a89e-6bbeb07a2623)
+![image](https://github.com/pkrachakonda/VBA-challenge/assets/20739237/7b7e9db9-76dd-4ff8-88a2-58a922c388be)
+    
 
 In the code, Lines 4 - 8 defines the nature of variables used in the code. Line 10 ask the code to loop each worksheet in the spreadsheet (excel) i.e. to loop through 2018, 2019, 2020 and to perform the below code.
 Lines 13 and 14 assign an initial values to the two variables. Values Open_Price and Last row for each worksheet are obtained through lines 16 and 17 of the code respectively.
